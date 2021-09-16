@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map type="toc">
+  
+<title>Table of Contents</title>
+  
+<book navtitle="Test" format="html" processing-role="normal">
+    
+<book navtitle="test2" format="html" processing-role="normal">
+      
+    </book>
+  </book>
+</map>
